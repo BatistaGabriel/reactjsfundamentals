@@ -351,3 +351,7 @@ MigrationBackup/
 
 # VSCode Folder
 .vscode/
+
+# Package files
+package-lock.json
+reactapp/package-lock.json
